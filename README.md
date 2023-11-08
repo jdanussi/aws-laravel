@@ -1,5 +1,6 @@
 # Laravel CDN with AWS S3 static site 
 https://www.scratchcode.io/laravel-upload-file-to-aws-s3-bucket-tutorial-example/
+https://laravel.com/docs/5.8/filesystem
 
 
 - Create public S3 bucket + static website + record in Route 53 as alias
